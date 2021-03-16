@@ -1,11 +1,13 @@
 #EXTINF:0 group-title="[AL]KOMBETARE",===>>>[WELCOME TO ALB-IPTV]<<<===
-http://aktive.2shkurt2021.m3u8
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4
 #EXTINF:0 group-title="[AL]KOMBETARE",[$]RTSH SATELIT
 http://us.bestvideostreaming.is/8701/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]KOMBETARE",[$]TOP CHANNEL HD
 http://us.bestvideostreaming.is/3018/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]KOMBETARE",[$]TOP CHANNEL
 http://us.bestvideostreaming.is/8708/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]KOMBETARE",[$]TOP CHANNEL (test)
+http://93.157.62.180/TopChannel/index.m3u8
 #EXTINF:0 group-title="[AL]KOMBETARE",[$]VIZION PLUS HD
 http://us.bestvideostreaming.is/8003/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]KOMBETARE",[$]VIZION PLUS
@@ -14,6 +16,8 @@ http://us.bestvideostreaming.is/8703/index.m3u8|User-Agent=stream
 http://us.bestvideostreaming.is/8004/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]KOMBETARE",[$]KLAN TV
 http://us.bestvideostreaming.is/8704/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]KOMBETARE",[$]Klan (test)
+http://84.22.33.214/TVKlan/index.m3u8?token=tv
 #EXTINF:0 group-title="[AL]KOMBETARE",[$]KLAN KOSOVA HD
 http://us.bestvideostreaming.is/3017/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]KOMBETARE",[$]KLAN KOSOVA
@@ -28,10 +32,14 @@ http://us.bestvideostreaming.is/8728/index.m3u8|User-Agent=stream
 http://us.bestvideostreaming.is/3015/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]KOMBETARE",[$]KTV
 http://us.bestvideostreaming.is/8705/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]KOMBETARE",[$]ALSAT M
+#EXTINF:0 group-title="[AL]KOMBETARE",[$]ALSAT-M HD
 http://us.bestvideostreaming.is/8713/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]KOMBETARE",[$]ALSAT-M
+http://93.157.62.180/AlsatM/index.m3u8
 #EXTINF:0 group-title="[AL]KOMBETARE",[$]RTK 1HD
 http://us.bestvideostreaming.is/8702/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]KOMBETARE",[$]TV ERA
+https://t2.tvmak.com/tv/TVERA.m3u8
 #EXTINF:-1 group-title="[AL]KOMBETARE",[$]ORA HD
 https://tv.oranews.tv/live/ora/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]KOMBETARE",[$]SYRI TV HD
@@ -40,6 +48,40 @@ https://tv.syri.net/syrilive/webtv/playlist.m3u8|User-Agent=stream
 http://edge01eu.ekranet.com/tematv_360p/index.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[AL]KOMBETARE",[$]SCAN TV 
 http://edge01eu.ekranet.com/scantv/index.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH 1HD
+http://79.106.48.2:3333/live/rtsh_11mob1/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH 2HD
+http://79.106.48.2:3333/live/rtsh_2mob/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH 3HD
+http://79.106.48.2:3333/live/rtsh3mob/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH 24HD
+http://79.106.48.2:3333/live/rtsh_24_mob/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH SHQIP HD
+http://79.106.48.2:3333/live/rtsh_shqip_mob_p1/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH SPORT HD
+http://79.106.48.2:3333/live/rtsh_sport_mob11/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH MUZIKË HD
+http://79.106.48.2:3333/live/rtsh_muzike_mob/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH FILM HD
+http://79.106.48.2:3333/live/rtsh_film_mob/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH PLUS HD
+http://79.106.48.2:3333/live/rtsh_plus_mob/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH AGRO HD
+http://79.106.48.2:3333/live/rtsh_agro_mob/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH KUVEND HD
+http://79.106.48.2:3333/live/rtsh_kuvendi_mob/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH SHKOLLË HD
+http://79.106.48.2:3333/live/rtsh_shkolle_mob/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH FËMIJË HD
+http://79.106.48.2:3333/live/rtsh_femije_mob/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH KORCA HD
+http://79.106.48.2:3333/live/rtsh_korca_mob/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH GJIROKASTRA HD
+http://79.106.48.2:3333/live/rtsh_gjirokastra_mob/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH KUKËSI HD
+http://79.106.48.2:3333/live/rtsh_kukesi_mob/playlist.m3u8
+#EXTINF:-1 group-title="[AL]KOMBETARE",[$]RTSH SHKODRA HD
+http://79.106.48.2:3333/live/rtsh_shkodra_mob/playlist.m3u8
 
 #EXTINF:-1 group-title="[AL]KOSOVARE",[$]RTK 1HD
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
@@ -116,43 +158,22 @@ http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8
 #EXTINF:-1 group-title="[AL]KOSOVARE",[$]ISTOGU CHANNEL HD
 http://artiiptv.dyndns.tv:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH 1HD
-http://79.106.48.2:3333/live/rtsh_11mob1/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH 2HD
-http://79.106.48.2:3333/live/rtsh_2mob/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH 3HD
-http://79.106.48.2:3333/live/rtsh3mob/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH 24HD
-http://79.106.48.2:3333/live/rtsh_24_mob/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH SHQIP HD
-http://79.106.48.2:3333/live/rtsh_shqip_mob_p1/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH SPORT HD
-http://79.106.48.2:3333/live/rtsh_sport_mob11/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH MUZIKË HD
-http://79.106.48.2:3333/live/rtsh_muzike_mob/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH FILM HD
-http://79.106.48.2:3333/live/rtsh_film_mob/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH PLUS HD
-http://79.106.48.2:3333/live/rtsh_plus_mob/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH AGRO HD
-http://79.106.48.2:3333/live/rtsh_agro_mob/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH KUVEND HD
-http://79.106.48.2:3333/live/rtsh_kuvendi_mob/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH SHKOLLË HD
-http://79.106.48.2:3333/live/rtsh_shkolle_mob/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH FËMIJË HD
-http://79.106.48.2:3333/live/rtsh_femije_mob/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH KORCA HD
-http://79.106.48.2:3333/live/rtsh_korca_mob/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH GJIROKASTRA HD
-http://79.106.48.2:3333/live/rtsh_gjirokastra_mob/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH KUKËSI HD
-http://79.106.48.2:3333/live/rtsh_kukesi_mob/playlist.m3u8
-#EXTINF:-1 group-title="[AL]RTSH",[$]RTSH SHKODRA HD
-http://79.106.48.2:3333/live/rtsh_shkodra_mob/playlist.m3u8
-
 #EXTINF:0 group-title="[AL]LOKALE",[$]TV KOPLIKU
 http://us.bestvideostreaming.is/2508/index.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[AL]LOKALE",[$]STAR PLUS HD
+http://93.157.62.180/StarPlus/index.m3u8
+#EXTINF:-1 group-title="[AL]LOKALE",[$]STAR PLUS
+https://t2.tvmak.com/tv/STARPLUS.m3u8
+#EXTINF:-1 group-title="[AL]LOKALE",[$]TV1 CHANNEL
+https://t2.tvmak.com/tv/TV1CHANNEL.m3u8
+#EXTINF:-1 group-title="[AL]LOKALE",[$]TV ROZAFA 
+https://t2.tvmak.com/tv/TVROZAFA.m3u8
+#EXTINF:-1 group-title="[AL]LOKALE",[$]BLUE SKY 
+http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/372
+#EXTINF:-1 group-title="[AL]LOKALE",[$]SHIJAK TV
+http://161.97.156.53:1935/live/shijaktv/playlist.m3u8
+#EXTINF:0 group-title="[AL]LOKALE",[$]REAL RTV HD
+https://framtetv.online/real-tv-livsream/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="[AL]LOKALE",[$]ALB UK
 http://us.bestvideostreaming.is/8794/index.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[AL]LOKALE",[$]NTV
@@ -549,6 +570,31 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1 group-title="[AL]KULTURE",[$]WINE CHANNEL HD
 http://212.43.97.35:1935/winechannel/winechannel/index.m3u8
 
+#EXTINF:0 group-title="[AL]HOROSKOPI VJETOR",[$]1-DASHI
+https://videos.files.wordpress.com/RhtgB2qF/dashi_dvd.mp4
+#EXTINF:0 group-title="[AL]HOROSKOPI VJETOR",[$]2-DEMI
+https://videos.files.wordpress.com/bX8RNsYJ/demi_dvd.mp4
+#EXTINF:0 group-title="[AL]HOROSKOPI VJETOR",[$]3-BINJAKET
+https://videos.files.wordpress.com/xKKcQ84s/binjaket_dvd.mp4
+#EXTINF:0 group-title="[AL]HOROSKOPI VJETOR",[$]4-GAFORRJA
+https://videos.files.wordpress.com/gERxj0EC/gaforrja_dvd.mp4
+#EXTINF:0 group-title="[AL]HOROSKOPI VJETOR",[$]5-LUANI
+https://videos.files.wordpress.com/u2nDylZx/luani_dvd.mp4
+#EXTINF:0 group-title="[AL]HOROSKOPI VJETOR",[$]6-VIRGJERESHA
+https://videos.files.wordpress.com/bqux64h7/virgjeresha_dvd.mp4
+#EXTINF:0 group-title="[AL]HOROSKOPI VJETOR",[$]7-PESHORJA
+https://videos.files.wordpress.com/VcyyCMqB/peshorja_dvd.mp4
+#EXTINF:0 group-title="[AL]HOROSKOPI VJETOR",[$]8-AKREPI
+https://videos.files.wordpress.com/V53bVwqZ/akrepi_dvd.mp4
+#EXTINF:0 group-title="[AL]HOROSKOPI VJETOR",[$]9-SHIGJETARI
+https://videos.files.wordpress.com/TaGtyP3t/shigjetari_dvd.mp4
+#EXTINF:0 group-title="[AL]HOROSKOPI VJETOR",[$]10-BRICJAPI
+https://videos.files.wordpress.com/UhV0dMc6/bricjapi_dvd.mp4
+#EXTINF:0 group-title="[AL]HOROSKOPI VJETOR",[$]11-UJORI
+https://videos.files.wordpress.com/ShafYOdr/ujori_dvd.mp4
+#EXTINF:0 group-title="[AL]HOROSKOPI VJETOR",[$]12-PESHQIT
+https://videos.files.wordpress.com/0QN5Pb19/peshqit_dvd.mp4
+
 #EXTINF:0 group-title="[AL]DIGITALB FILM",[$]FILM NJE FHD
 http://us.bestvideostreaming.is/3005/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]DIGITALB FILM",[$]FILM 1HD
@@ -630,26 +676,25 @@ http://us.bestvideostreaming.is/8884/index.m3u8|User-Agent=stream
 http://95.107.132.106/out/u/356_1.m3u8
 #EXTINF:0 group-title="[AL]EURO FILM",[$]FX MEDIA HD
 https://framtetv.online/fxmediaweb5548/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="[AL]EURO FILM",[$]KINEMA+ HITS HD
-https://funwith.the-beast.xyz:8443/live/i6wZYI7tCN/D2nc3XLbpo/95.ts|User-Agent=g8ne22
-#EXTINF:0 group-title="[AL]EURO FILM",[$]KINEMA+ GOLD HD
-https://funwith.the-beast.xyz:8443/live/i6wZYI7tCN/D2nc3XLbpo/99.ts|User-Agent=g8ne22
-#EXTINF:0 group-title="[AL]EURO FILM",[$]&FLIX HD
-http://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="[AL]EURO FILM",[$]&PRIVE HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="[AL]EURO FILM",[$]HBO HD
-http://77.46.130.252:1234/hbo
-#EXTINF:0 group-title="[AL]EURO FILM",[$]HBO 2HD
-http://77.46.130.252:1234/hbo2
-
-#EXTINF:0 group-title="[AL]FOX FILM",[$]FOX HD
+#EXTINF:0 group-title="[AL]EURO FILM",[$]ART-KINO 1HD
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/28175
+#EXTINF:0 group-title="[AL]EURO FILM",[$]ART-KINO 2HD
+http://93.157.62.180/ArtKino2/index.m3u8
+#EXTINF:0 group-title="[AL]EURO FILM",[$]ART-KINO 3HD
+http://93.157.62.180/ArtKino3/index.m3u8
+#EXTINF:0 group-title="[AL]EURO FILM",[$]ALB-TV FILM 1HD
+https://t2.tvmak.com/tv/ALBFILMTV1.m3u8
+#EXTINF:0 group-title="[AL]EURO FILM",[$]ALB-TV FILM 2HD
+https://t2.tvmak.com/tv/ALBFILMTV2.m3u8
+#EXTINF:0 group-title="[AL]EURO FILM",[$]AMC HD
+https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
+#EXTINF:0 group-title="[AL]EURO FILM",[$]FOX HD
 http://ott-albkanale.duckdns.org/out/u/372_3.m3u8
-#EXTINF:0 group-title="[AL]FOX FILM",[$]FOX LIFE HD
+#EXTINF:0 group-title="[AL]EURO FILM",[$]FOX LIFE HD
 http://ott-albkanale.duckdns.org/out/u/377_2.m3u8
-#EXTINF:0 group-title="[AL]FOX FILM",[$]FOX CRIME HD
+#EXTINF:0 group-title="[AL]EURO FILM",[$]FOX CRIME HD
 http://ott-albkanale.duckdns.org/out/u/393_1.m3u8
-#EXTINF:0 group-title="[AL]FOX FILM",[$]FOX MOVIES
+#EXTINF:0 group-title="[AL]EURO FILM",[$]FOX MOVIES
 http://srb.00387.info/HR:FOXMOVIES/index.m3u8?token=test
 
 #EXTINF:0 group-title="[AL]POP CORN",[$]TOTAL CINEMA 1HD
@@ -675,33 +720,33 @@ http://srb.00387.info/c7/index.m3u8?token=test
 #EXTINF:0 group-title="[AL]POP CORN",[$]CINEMACIOUS 8HD
 http://srb.00387.info/c8/index.m3u8?token=test
 
-#EXTINF:0 group-title="[AL]SPORTE(VIP)",[$]SUPER SPORT 1HD
+#EXTINF:0 group-title="[AL]SPORTE",[$]SUPER SPORT 1HD
 http://us.bestvideostreaming.is/10030/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)",[$]SUPER SPORT 2HD
+#EXTINF:0 group-title="[AL]SPORTE",[$]SUPER SPORT 2HD
 http://us.bestvideostreaming.is/8734/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)",[$]SUPER SPORT 3HD
+#EXTINF:0 group-title="[AL]SPORTE",[$]SUPER SPORT 3HD
 http://us.bestvideostreaming.is/8741/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)",[$]SUPER SPORT 4HD
+#EXTINF:0 group-title="[AL]SPORTE",[$]SUPER SPORT 4HD
 http://us.bestvideostreaming.is/8743/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)",[$]SUPER SPORT 5HD
+#EXTINF:0 group-title="[AL]SPORTE",[$]SUPER SPORT 5HD
 http://us.bestvideostreaming.is/8736/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)",[$]TRING SPORT NEWS HD
+#EXTINF:0 group-title="[AL]SPORTE",[$]TRING SPORT NEWS HD
 http://us.bestvideostreaming.is/8785/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)",[$]TRING SPORT 1HD
+#EXTINF:0 group-title="[AL]SPORTE",[$]TRING SPORT 1HD
 http://us.bestvideostreaming.is/3011/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[AL]SPORTE(VIP)",[$]T-SPORT 1HD
+#EXTINF:-1 group-title="[AL]SPORTE",[$]T-SPORT 1HD
 http://us.bestvideostreaming.is/8796/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)",[$]TRING SPORT 2HD
+#EXTINF:0 group-title="[AL]SPORTE",[$]TRING SPORT 2HD
 http://us.bestvideostreaming.is/3012/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)",[$]T-SPORT 2HD
+#EXTINF:0 group-title="[AL]SPORTE",[$]T-SPORT 2HD
 http://us.bestvideostreaming.is/8797/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)",[$]TRING SPORT 3HD
+#EXTINF:0 group-title="[AL]SPORTE",[$]TRING SPORT 3HD
 http://us.bestvideostreaming.is/8798/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)",[$]TRING SPORT 4HD
+#EXTINF:0 group-title="[AL]SPORTE",[$]TRING SPORT 4HD
 http://us.bestvideostreaming.is/8799/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)",[$]K SPORT 1HD
+#EXTINF:0 group-title="[AL]SPORTE",[$]K SPORT 1HD
 http://us.bestvideostreaming.is/10035/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)",[$]K SPORT 2HD
+#EXTINF:0 group-title="[AL]SPORTE",[$]K SPORT 2HD
 http://us.bestvideostreaming.is/10036/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]SPORTE(VIP)",[$]FIGHT HD
 http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
@@ -811,6 +856,20 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2076.ts
 
 #EXTINF:-1 group-title="[AR]SPORTE ARABE",[$]BEIN SPORTS XTRA HD
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:-1 group-title="[AR]SPORTE ARABE",[$]BEIN SPORTS XTRA 1HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2459.ts
+#EXTINF:-1 group-title="[AR]SPORTE ARABE",[$]BEIN SPORTS XTRA 2HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2460.ts
+#EXTINF:-1 group-title="[AR]SPORTE ARABE",[$]BEIN SPORTS PREMIUM 1HD
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/14994
+#EXTINF:-1 group-title="[AR]SPORTE ARABE",[$]BEIN SPORTS PREMIUM 2HD
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/14996
+#EXTINF:-1 group-title="[AR]SPORTE ARABE",[$]BEIN SPORTS PREMIUM 3HD
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/14998
+#EXTINF:-1 group-title="[AR]SPORTE ARABE",[$]BEIN SPORTS 1HD
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/14980
+#EXTINF:-1 group-title="[AR]SPORTE ARABE",[$]BEIN SPORTS 2HD
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/14982
 #EXTINF:-1 group-title="[AR]SPORTE ARABE",[$]BEIN SPORTS 3HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="[AR]SPORTE ARABE",[$]BEIN SPORTS 4HD
@@ -1053,6 +1112,33 @@ http://hrv.00387.info:80/GER:EUROSPORTDE1HD/index.m3u8?token=test
 http://hrv.00387.info:80/Eurosport2HD/index.m3u8?token=test
 #EXTINF:0 group-title="[DE]SPORTE GJERMANE",[$]EUROSPORT 2XTRA HD  
 http://bos.00387.info:8080/GER:DE:Eurosport2UHDXtra/index.m3u8?token=test
+
+#EXTINF:0 group-title="[TR]SPORTE TURKE",[$]BeIN SPORTS HABER HD
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/17896
+#EXTINF:0 group-title="[TR]SPORTE TURKE",[$]BeIN SPORTS 1HD
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/15719
+#EXTINF:0 group-title="[TR]SPORTE TURKE",[$]BeIN SPORTS 2HD
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/15943
+#EXTINF:0 group-title="[TR]SPORTE TURKE",[$]BeIN SPORTS 3HD
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/6414
+#EXTINF:0 group-title="[TR]SPORTE TURKE",[$]BeIN SPORTS 4HD
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/15722
+#EXTINF:-1 group-title="[TR]SPORTE TURKE",[$]a SPOR HD
+http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd?token=test
+#EXTINF:-1 group-title="[TR]SPORTE TURKE",[$]TRT SPOR HD
+http://mfe.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd?token=test
+#EXTINF:-1 group-title="[TR]SPORTE TURKE",[$]CBC SPORT HD
+http://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:-1 group-title="[TR]SPORTE TURKE",[$]CBC SPORT 
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?token=test
+#EXTINF:-1 group-title="[TR]SPORTE TURKE",[$]IDMAN HD
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd?token=test
+#EXTINF:-1 group-title="[TR]SPORTE TURKE",[$]SPORTS TV 
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 group-title="[TR]SPORTE TURKE",[$]TURKMENISTAN SPORT HD 
+http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="[TR]SPORTE TURKE",[$]NTV SPOR HD 
+http://46.105.233.106:8005/hls/ntvspor/playlist.m3u8
 
 #EXTINF:-1 group-title="[RU]SPORTE RUSE",[$]SETANTA SPORTS +HD 
 http://195.158.29.129/live_360/live.stream+_360p.m3u8
